@@ -6,3 +6,4 @@ profile page
 3.delete photo
 4.last seen code with time
 5. last seen hide
+6.contacts updated
