@@ -1,0 +1,7 @@
+watsup code 
+
+profile page
+1.last seen code
+2.profile photo
+3.delete photo
+
